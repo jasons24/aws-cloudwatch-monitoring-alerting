@@ -126,30 +126,6 @@ SNS successfully delivered email notifications.
 
 ---
 
-## Key Learning Outcomes
-
-- Amazon CloudWatch monitoring
-- CloudWatch metric alarms
-- SNS notification workflows
-- Infrastructure observability
-- Linux performance testing
-- Incident detection and alerting
-- Real-time monitoring best practices
-
----
-
-## Resume Highlights
-
-- Implemented infrastructure monitoring using Amazon CloudWatch and Amazon SNS.
-- Configured CPU utilization alarms and automated email notifications.
-- Simulated high CPU workloads using Linux stress testing tools.
-- Validated end-to-end monitoring and incident alerting workflows.
-- Gained hands-on experience with cloud observability and operational monitoring.
-
----
-
 ## Author
 
 Jason Soundara Rajan
-
-AWS Cloud Engineering Portfolio Project
